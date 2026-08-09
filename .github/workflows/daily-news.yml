@@ -10,8 +10,10 @@ on:
     - cron: '15 13 * * *'
     - cron: '0 14 * * *'
   workflow_dispatch:  # 手动触发
+
 permissions:
   contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -30,8 +32,14 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python news_digest.py
+
       - name: Push
         run: |
-          git add latest.html *.html *.md history.json || true
+          # 确保有 index.html 供 GitHub Pages 默认加载
+          if [ -f "latest.html" ]; then
+            cp latest.html index.html
+          fi
+
+          git add index.html latest.html *.html *.md history.json || true
           git diff --cached --quiet || git commit -m "update $(date -u +%Y.%m.%d)"
           git push
