@@ -7,6 +7,11 @@
 
 ## 🇺🇸 美国股市 / US Market
 
+- **[2026.08.16] Seeking Alpha — Nvidia scales back OpenAI data-center guarantee to less than $120B, WSJ reports (NVDA:NASDAQ)**
+  English: Summary: Seeking Alpha is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Nasdaq futures make the story relevant for growth-tech risk appetite. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [Seeking Alpha](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWWZkOE9BSUpHX0ZHQ0tqVzBsS1B0Y0dkRVN0VThNZnhBdUJ1bloyZ1hnYWNmZzJod3RJUlVTNWVHX3ZCR2JRNWZKby1tVGQwNUhQalVueV9mWnFQa25CUHBpaDQ4bjBkMXA5UmpYdW1KbmVCMDRYM1hHLXFsNFdtVFNIRjBpT2lhcjRJRFBQX25vT09OaDRwUXpyXzh2dTZGdDFnWkZteXNWVVpGb3RDSzN0ejI2Zw?oc=5)
+
 - **[2026.08.16] Intellectia AI — Nvidia Earnings Preview August 2026: AI Chip Leader's Next Catalyst**
   English: Summary: Intellectia AI is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
   中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
@@ -22,20 +27,15 @@
   中文：总结：Broadcom 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
   📰 [simplywall.st](https://news.google.com/rss/articles/CBMizgFBVV95cUxObUR5OXFibjVpYS1QVG84ZDR2bjQxSl9vSXhmVTM3Ry1nX21IVUxTQ1Z1cmExQ1lsYjRpR2c5aERWUUo4XzBPVzBlY0tQWFM1TWZnREFxY1BmNmtCbFRuNndUcl9ZbXFtdEM4UnFaX3Z2THhGaHNKdzBvUjNXS1ExRkx5c3RNMFVjY2x3cm9KVW5BaVJ0YnNUSUw2aEVkTVZ0WnZjeHVnZ09fSHd1dTI0T25BTTZ1bVZkRU44Y3pEZ3pvN2Nwd18wSkVDMGtmUdIB0wFBVV95cUxOeGJRZXBULVRaM0FISG1ucnFNNWJDMDg3TnIwQ05tTzNwSWVCRXJ6bEtlel9fMW1sd2tjdkt3X3BCbDBNOUVNSm5vcEVCaG03ZGc3dGFONHlINk1EOUJPRElyZmlWVVNjaVlKZnREaUVWSlpnbTdNUDdtRXNEbkplbkFzaEh4M2hFOWVldGdFclRsX0pSeGlnNUtLYjc4QW84Ykd2eW1leGhRdFRKVlBDWDliR1Q4VmNoTDJQQkVSY3J5SUJwNGVoQjlZbF92a3FDcGhn?oc=5)
 
-- **[2026.08.16] Mshale — Stock Bloodbath! Esp In Nasdaq 100! Tom Lee Thinks The Worst Is Not Here Yet! Bahamas (autAjXkQrf)**
-  English: Summary: Mshale reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
-  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rdTk1OU9XdnlsMTNiSl80VFBaQnkyUjFZdmxNdWEzY1lMT1ZJSDRTWTE1blptaTB3RDdIcl80T1ZjREUwZ2lQVGlDODR3YnhUZ3BkaHFMVWFoaXc?oc=5)
-
 - **[2026.08.16] Mshale — The NVIDIA Move NOBODY Saw Coming And Just CHANGED Tech FOREVER... Womens Fa Cup (NnKe8aM4d3)**
   English: Summary: Mshale is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
   中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
   📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDMGtnckxiMmV1SzdEbWhWYTg0c0ZuelBhdnBpMllkSWJVWXdsZXA3MzZwenZTdDd6VmVOaHlhY1hfQ25Lc0RNTDlZamdjQWFTNFNYVHR1NXRHd0k?oc=5)
 
-- **[2026.08.16] simplywall.st — Marvell Technology (MRVL) On Nvidia’s $2b Backing And Why Fair Value Still Looks Debatable**
-  English: Summary: simplywall.st is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [simplywall.st](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVkxBMHB2ZHVQbEFGMTFCTl9MTzdUc19xdjBFTFRIVWRERnZERjJNTGtOTXpCaU01QzcwSHB6eXB6UzFQT0NkX1JQNXZRV3FzR3ppa1Jfc0t4OHRKOGtvNUw4VXI2NFVzcEV6Vm16Si0tTXV2eTZlbUY2a084ZVdYaVNUN3V6ZjVzOE4tRE9zaHRrSjUzWDM4T1ItLURKeXlqR0cySHo4cXpoZE9PR0dNOEV3ZWlhaEs3NWlNUG5MQlhicjBGeW11NW9pNjFPY182X25OOHBQU0F4aDdDTkdFaNIB4AFBVV95cUxNVkxBMHB2ZHVQbEFGMTFCTl9MTzdUc19xdjBFTFRIVWRERnZERjJNTGtOTXpCaU01QzcwSHB6eXB6UzFQT0NkX1JQNXZRV3FzR3ppa1Jfc0t4OHRKOGtvNUw4VXI2NFVzcEV6Vm16Si0tTXV2eTZlbUY2a084ZVdYaVNUN3V6ZjVzOE4tRE9zaHRrSjUzWDM4T1ItLURKeXlqR0cySHo4cXpoZE9PR0dNOEV3ZWlhaEs3NWlNUG5MQlhicjBGeW11NW9pNjFPY182X25OOHBQU0F4aDdDTkdFaA?oc=5)
+- **[2026.08.16] TradingKey — Alphabet Approaches $5 Trillion: Is Nvidia’s Market Cap Crown Under Threat? Can Google Overtake Nvidia?**
+  English: Summary: TradingKey is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Alphabet. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Alphabet 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [TradingKey](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTWh6WEltb2Vlc1RkUkhZdFA0NW5SX3B0bVA2d0htelRmclRMUlplQ3VyQVQ3Z2RNUGtDMTFhbkRDTUdWdk02M0hCbWdhZmFOWUF2cE44dE1YWXphLWNtNXpTaU42alFvMzFlMXM5elZvZUVkMmU1X2RwWkRtU3RhVVhQTjhMMk0tYlBiUHJSa3Y4d1FHbFdfWHhMS3BWTGx6OTh4Mk1fb0lQYVlhSFlBag?oc=5)
 
 - **[2026.08.16] foreignpolicyjournal.com — Super Micro's (NASDAQ: SMCI) Blowout Orders Drive Rally Across AMD (NASDAQ: AMD), Intel (NASDAQ: INTC), And NVIDIA (NASDAQ: NVDA)**
   English: Summary: foreignpolicyjournal.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, AMD, Intel. Nasdaq futures make the story relevant for growth-tech risk appetite. The price reaction is part of the news, so peer follow-through matters. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
@@ -49,25 +49,25 @@
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.16] Mshale — 【8月14日】日経平均405円高で6万8713円｜雲を765円抜けたのに129円下に戻された Sphere Las Vegas (74dfe4b4BX)**
-  日本語：要約：Mshaleの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Va0NuYU5Jc3FhWVFYeEExWUVGbzZXNWZVUzJlY0JOeDVVUjE4QnJZNE5vRjJHVDRDUmhCMUJ0VGFUYmZ1Zk9wZE1mdmMyUHZIVUJWLWhzM0FWVGM?oc=5)
+- **[2026.08.16] 日本経済新聞 — ソフトバンクG傘下SBエナジー、NVIDIAが出資検討 米報道**
+  日本語：要約：日本経済新聞の報道では、Nvidiaを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：Nvidia 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9EQ0tKREVaMUh3R0g0VV9fUFkzTkMzeWlLWlFPZGc5THgwUDFIaENoZnRWZFRQOWg3Y3Bhc1lYeGc1c0lRT2J6WnpzN0hrYWZOZlhsYS1KMTB6cGFMUW1pR1ZKdHFkZkRvTHdXSw?oc=5)
 
-- **[2026.08.16] みんかぶ — 株価指数先物 【週間展望】―レンジ内で推移も、7万円を射程に押し目狙いのロング対応 投稿日時： 2026/08/16 17:00[株探]**
-  日本語：要約：みんかぶの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+- **[2026.08.16] 株探 — 株価指数先物 【週間展望】―レンジ内で推移も、7万円を射程に押し目狙いのロング対応**
+  日本語：要約：株探の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4c1hLZ2t3QUVYNzdwRmpIMVpRelVTVVJ5QXdFb2tVaS1MQ0RGSi1fVDV6WF8zM25NdUdiY09nZG5zR1V6bDBzYg?oc=5)
+  📰 [株探](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zX29fakt3ZURNLVVaNk5oTkgyMzNrR2tETnRzWmdjSVdsYUZodTF6TTZhVzVmWVJLMktvUk5DaVJIaWxlMUlyRUJCWERNLXRENk9oRGFxTldTNHh4c1hiUA?oc=5)
 
 - **[2026.08.16] Yahoo!ファイナンス — レーザーテック(株)【LSRCY】：株価・株式情報**
   日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MVmxpYjhTZ2ZlbnJZMHZIZjFOcjdONnFpa3NvX1NMdlJJMXFKbnd6ZmQ0a3BzME16WHpGX3VLVmZqQ1dmRUJlNUJNRXhpVk5h?oc=5)
 
-- **[2026.08.16] ABEMA — クロマグロ漁獲枠、18日にオンラインで関係国再協議 日本、25％拡大めざす**
+- **[2026.08.16] ABEMA — フィットネスクラブ倒産が最多ペース 競争激化、会員獲得の特典で売上確保困難に**
   日本語：要約：ABEMAの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [ABEMA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE51Xzkzdl9BZzVRNWlnamVvSDFuTE9iZzRfRG03WW91UVVDbnVuTHFoaUxhaHhpTzZsMG1wb0hSbzg5UWh3Zk9KMVpPbEJCcTNQb0h0TGZhMGtrRkU?oc=5)
+  📰 [ABEMA](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fbkNIWlpORHdocUExMG5leHFzdHlkd3Q4anp1QWxWMFVZNnFlMng2VUNidVdpbHdRdFZCV0FJOVJ1aURfYTA4ZlVHeGRFTUdOOTlUZU15Zk5jWlE?oc=5)
 
 - **[2026.08.16] AERA DIGITAL — (5ページ目)〈夏休みに学ぼう〉資産270億円cis×利益100億円テスタ対談「伝説のB・N・Fさん」ジェイコム誤発注事件のとき俺は…**
   日本語：要約：AERA DIGITALの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
