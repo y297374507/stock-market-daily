@@ -49,15 +49,15 @@
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.08.29] Yahoo!ファイナンス — キオクシアホールディングス(株)【285A】：株つぶやき**
-  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nS19UNFdLVzVwaV9HdW5xMHI1c3JBdG5qdllqYU5abk4ybE9YcDY2dk9jd3FVaDUtVUtNZ1ZScjF6R01QZjNSUWJ4VVNMeHNTVzVtM2tzTEo?oc=5)
+- **[2026.08.29] Mshale — 投資！有望株93 ダイダン1980＝大型設備投資ラッシュで業績加速！：データセンター特需の本命はダイダンだ Man City (jaFLyOdpjn)**
+  日本語：要約：Mshaleの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3UTEzdEZFdVVrWlhOcTJSUXFEczAwZ2loTHZ4LW1PNG1XbW9wNkdqd2d5ejdkMWZDQ0dQaTh2ay1KWUNIS2szdVhpU2NPbllmSndCQkliTFNKZ3c?oc=5)
 
-- **[2026.08.29] Mshale — 投資！有望株④ ワイズHD＝テンバガー最有力銘柄★：ある製造業の意外な物語 Artificial Intelligence (wV2CTjsgEj)**
-  日本語：要約：Mshaleの報道では、Intelを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：Intel 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE92bWZOQ1pUTXVGcWY2X2FPSUFJdzNvMmhqbEJOc2lReVBYUWg5dmlnOGcwcUZNSS1xcUFJVjNfMWJtTjZaNFVFZGZ0SVZ0Z0Fuak5Wc05xOWNvSjA?oc=5)
+- **[2026.08.29] Mshale — 金関連株が急騰。AI・半導体関連は苦しい状況。川崎汽船と日本郵船が上場来高値更新。ＦＩＧが急落。2026年８月２４日（月）～明日上がる株。最新の日本株情報。高配当株の株価やデイトレ情報～ Edoardo Bennato (5EzImKBhJH)**
+  日本語：要約：Mshaleの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CYlgwYlNiYWdZVDlwakN0a05Jbm1iMEV5OHQtN1NSVFpMR2RTb2w1b3A3Uk9NdHRYTjN5X2JHb180VU9VU1Q3bDlqbXFBWVNLNnRRblRVMVRaWDQ?oc=5)
 
 - **[2026.08.29] Mshale — 日経平均は2日で3894円急落｜来週はNVIDIA・米PCE・ジャクソンホール West Ham Vs Arsenal (8AZ0YmvcYs)**
   日本語：要約：Mshaleの報道では、Nvidiaを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
@@ -101,10 +101,10 @@
   中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
   📰 [Investing.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkpEcURIXzFHM0FwZ2NsLTRoeWVJSWdfeTU4WmtXcEQzYjhQZUE2UndDcjJaOWV4U01sd09iUHNKNFV5dFZ3QUloaDRsbU5WblAxXzNWTmZZODZCLTQ3WDRUQ01vSlpQRjhSZTlSZTd3R1p0QXBjYzV1c2twejdjVzRKYnV0OWwwZ3JGZEpLNGdYMVg5WU1Za2VxcmJuTVZ4cjFWZmlqb1NGckNMQUpqUWhCUUlGb0FUWFh4dmdBQnZBVFU?oc=5)
 
-- **[2026.08.29] CryptoRank — US Dollar Weekly Forecast: ‘Higher for Longer’ Returns, Boosting the Greenback**
-  English: Summary: CryptoRank highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+- **[2026.08.29] Moomoo — The yen falls below the 160 mark; Bessent defends last month's intervention, warning that yen disorder would push up U.S. interest rates**
+  English: Summary: Moomoo highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
   中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [CryptoRank](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEprdEs2YVNlb3EyZHUtS29GdlhrYTlMc3l2djdoa1p3Ulk3cHZhYmtXUEk2OEFqeW5Fc1JVMDRTWVJJM1lPWVdQMHhpVnY2ejNxdTE1MjhVYmxBNXVSXzFWUTRMaGJESXBselc4NEJFUDU5cTgtNXlCME9MZS1QZ2VnVHhBVnMt?oc=5)
+  📰 [Moomoo](https://news.google.com/rss/articles/CBMingFBVV95cUxPM0RFbUhWSDJ2XzgwQ2I4dDR0Qm1GWFN1NS1LV0hpQXN1ZG5ZZUEtc1hXeW5jNjYzRVh3S0V1U0kxMEp4elo5QWRfRm1sXzZsdVJIN3JQX05Oa1YxemxLRnh3RVdCcDYtcTREd2ExSFd5cVpYR1BJUHR5dkkzZFpwTDBMSl9rWE5NM2J6WDdody1yNDJXc3pDb1pTR0VYZw?oc=5)
 
 - **[2026.08.29] CryptoRank — Tokyo CPI Data Bolsters Bank of Japan’s Hawkish Stance, Says Societe Generale**
   English: Summary: CryptoRank highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
