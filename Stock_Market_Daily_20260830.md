@@ -1,0 +1,135 @@
+# 📈 Stock Market Daily | 2026.08.30（日曜日 / Sunday）
+
+> ⚠ 本日报优先收录最近24小时的市场新闻、个股异动与当时市场快照；数据仅供参考，不构成投资建议。
+
+---
+
+
+## 🇺🇸 美国股市 / US Market
+
+- **[2026.08.29] 24/7 Wall St. — Jim Cramer Sold 1 AI Chipmaker Over $80 Billion in Debt. But He Defended NVIDIA**
+  English: Summary: 24/7 Wall St. is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [24/7 Wall St.](https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2RleE9qOEFMNk0xdUY0NVczNlZfX3p6VS00aGdvMF9nbGkzX0ZaY25WUi1yQkNBVVlsMzRwLVBOY1BFdVIwYUhDX1hjYmNMU0RtOHdfXzVOTXJOcXAtdEpHM1YzUXBOUHhSeDZwWF84U1VkZWxuVkJSb2ktOVExenBfWXJNUHdxOWZQZFFLTXFPVVdMeDVYeDNfa3RQZzFiMWljNWxhM3IxV1BDcU1BeUNQU2lLVGNJZU9aSUFn?oc=5)
+
+- **[2026.08.29] simplywall.st — NVIDIA Stock Tops Healthy Growth Picks for AI Infrastructure Exposure**
+  English: Summary: simplywall.st is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [simplywall.st](https://news.google.com/rss/articles/CBMi0AFBVV95cUxORWoxRTBMSGpWcDNtTTExYTlFbzhiOFBTLVhJTW1uYnVpcGV5c1YwanN3UGgtaFFJT0h2RWV4S184dnlrQ2pXbF9zb0xzMzhHaW13eURWNnpkWjdwaXMwVGZuT21XT25Kcjl6YTloZUpnY09BNmtDTUdqOEtHcDdJdjlHOS1PeXFCZUFtYmtWZ2hEanBBa0tRN0czQnFCRVFsSUlpakpFbWtxMTZGMnFmYm90dnc3OG5veGVaa0haa1JScWpfZlpzZEVQemkzZG5a0gHQAUFVX3lxTE5FajFFMExIalZwM21NMTFhOUVvOGI4UFMtWElNbW5idWlwZXlzVjBqc3dQaC1oUUlPSHZFZXhLXzh2eWtDaldsX3NvTHMzOEdpbXd5RFY2emRaN3BpczBUZm5PbVdPbkpyOXphOWhlSmdjT0E2a0NNR2o4S0dwN0l2OUc5LU95cUJlQW1ia1ZnaERqcEFrS1E3RzNCcUJFUWxJSWlqSkVta3ExNkYycWZib3R2dzc4bm94ZVprSFprUlJxal9mWnNkRVB6aTNkblo?oc=5)
+
+- **[2026.08.29] The Motley Fool — Harsh Chauhan**
+  English: Summary: The Motley Fool reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [The Motley Fool](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOejM4NW1FelN6ZndnZzVoN3VPaU9UYmMyVjBWY0xUMUpPd0JUekRwQjhWRndQbkgzTUpGaFNUREFHNHIzUmlWRHNHWWhlNWlOT3o1SmhUb3VzVjJUUkdLd3h4SVRMVTdwVWVfMTZwTVoxRkFUT3NBU2ZXRjd3OWxubmdjWmpJMndheUJCZ3phZnNrRkF4ZXloUW1PdERST0p0dFljXzRiWmpUVVJRZU1VVG9KX3hWRG9vZVhzNGhHMUdMMVhiRTV1UHhMT2V1SzB5dGdJRW1TQQ?oc=5)
+
+- **[2026.08.29] Stocktwits — Nasdaq, S&P 500 Futures Rebound As Micron Rally Lifts Chip Stocks: Why SPCX, QCOM, TSM, BABA, PLTR, CBRS, WEN, IBRX Are In Focus**
+  English: Summary: Stocktwits is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Nasdaq futures make the story relevant for growth-tech risk appetite. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The price reaction is part of the news, so peer follow-through matters. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；这类消息包含明确的股价反应，后续要看同业是否继续跟涨，而不是只看标题中的单日涨幅。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [Stocktwits](https://news.google.com/rss/articles/CBMiigJBVV95cUxQZjEyUjNpdUFBSU1TbzlQNmpzSV9LcDA3cDJHcDdWRWdmN0pqa2Nma3lfdEdJdmM2eGwtUE9PMTdqYUh1bno4cC04b3lUUVNGMEVlY0xYMTRZODJHREltVkNSYzlsbnJFd0RMdjQ4X0lDSWZRM1pfR0RJYTdPbl9UYThhRUhtdU91T2NsSVJqQlBCT2J2YmNXbXFWV1BQdkkyMVZmM0NwLXRGWk52WmRUeU9CZzRnalNQX3BMWmQ3VEpYMUE3RVhaTWNNOElQTllMR1NVYnUtWVFIbHh4a25heWJjWjZfNjdoT1d2eFhhTnlHN3dTVU05MnhGZGxHZTRpWm1xc2o0MEdSZw?oc=5)
+
+- **[2026.08.29] Reuters — Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight**
+  English: Summary: Reuters reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5)
+
+- **[2026.08.29] Stocktwits — SK Hynix's Nasdaq Listing Could Lift Valuation By 20% And Narrow Gap With Micron, HSBC Says**
+  English: Summary: Stocktwits is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Nasdaq futures make the story relevant for growth-tech risk appetite. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [Stocktwits](https://news.google.com/rss/articles/CBMiygFBVV95cUxPN3p4bTVkWnZKc2pRZHlEVm04MmstdjBIeUdzZzRzNGUxQmVGWnBHaXhxWmxUUGNpc1hBM0stZ1pqN3dvU0diQ1ktR0xZSmVDdUFxU09NaGx0Q1ljMVc3NVVkc2pxVWFqS0FHclpIc3N6WW5DT2lBN2w3SjNGQ210ZHFLR2RETW1fWmtKSXBGbU1GdG1RRTFQYl8yY3c3QWlmSGdoQ1lWSXVKUGluMGl2eVVVMUdiWFZZbEUwUnR3aEEwY3ZGTHV5dnlB?oc=5)
+
+- **[2026.08.29] Stocktwits — McDonald's Falls Into Bear Market, Heads For Fifth Straight Monthly Loss Amid Turnaround Concerns**
+  English: Summary: Stocktwits reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Stocktwits](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQlllSlNIWlRsbS1JRnBoOGptRVZjUlRONy01anRtVFE3NUdQSktKekdsb2dEaUNTSUlqS2txaW94UVZiTVN4WHI2SE5TN1dxbnUzQ3hfSTZEMXpnX1FNYml3bnRLRWx5MXpwWUtPbnpXUEU5ZXFOaTJwY3M0MGFFZW5LQTlHMDBXeWY2S3lYZXVPSzBnMFQ2VWhxcXN6U3I1NEFUckhqd3VMM3FTc3JWSVFNeUhCWFJ6aUhJS3pZYjF2N01WeWttN1VqR2hkNUtNY3JlTXE3b2hqdERZdnU2QmZuMEVpMFJZNUtoMzV0VXNlQkE?oc=5)
+
+- **[2026.08.29] International Business Times Australia — Amazon Stock Jumps Nearly 4 Percent After Evercore ISI Raises Price Target on AI Driven Sales Growth**
+  English: Summary: International Business Times Australia reports a market-moving item tied to Amazon. The relevance is how it feeds into electric vehicles, high-beta growth shares, and consumer technology. Watch Amazon alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：Amazon 的变化会直接牵动美股电动车及高 beta 成长股情绪。Tesla 或同类公司的变化常会影响投资者对消费科技、自动驾驶、能源存储和成长股风险偏好的判断。如果消息涉及交付、价格、监管或分析师评级，通常会直接牵动期权交易和盘前波动；后续要看成交量、同业联动以及 Nasdaq 风险偏好是否跟随。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [International Business Times Australia](https://news.google.com/rss/articles/CBMiigFBVV95cUxOc29RUmg2Mzc1Y3FWSmZFM0dWRDNlMnJBT2NmZG4zS3pWNkFZdGlFRk9qNkVqR0d5N2FBc2NmbU1qRU9TMm82WmJqTFMyTm92cWE3bFFobUtENmFYUUhLRVJSNWxRWkhKRWJtSDBTaENFdWhiQlNKel9TZGhVRzdHcmROT05TMDhMT1E?oc=5)
+
+## 🇯🇵 日本株式市場 / Japan Market
+
+- **[2026.08.29] Yahoo!ファイナンス — キオクシアホールディングス(株)【285A】：株つぶやき**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nS19UNFdLVzVwaV9HdW5xMHI1c3JBdG5qdllqYU5abk4ybE9YcDY2dk9jd3FVaDUtVUtNZ1ZScjF6R01QZjNSUWJ4VVNMeHNTVzVtM2tzTEo?oc=5)
+
+- **[2026.08.29] Mshale — 日経平均は2日で3894円急落｜来週はNVIDIA・米PCE・ジャクソンホール West Ham Vs Arsenal (8AZ0YmvcYs)**
+  日本語：要約：Mshaleの報道では、Nvidiaを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：Nvidia 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5URjhpbFAtbmFmMS1uU1MtU3FsLWs4djJlRVVhVklhZGtUQlFUSWJpU2pEdlhoekZTY2hFc25yUTJwVEVpbTYtRzJxckJxNDhoSE9tRzE0YWV6OG8?oc=5)
+
+- **[2026.08.29] Yahoo!ファイナンス — レーティング週報【格下げ↓】 (8月24日－28日)(株探ニュース)**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDFiaklrNmFvVy1tdER4dzg1cjdmUG1VSjBpV1N0U2ZBLWplTmRGcDBLbldxWmpwRWprUTl3R2p0eG5BLWR6eFFZcHFKZ2stQVZZbExNRk4zLVR4U3M4eklMMk9henFpdWRnREZvMG5lSGhJVUc3WG5xb0ZhRjgtMHNKcEt5RGc?oc=5)
+
+- **[2026.08.29] Yahoo!ファイナンス — レーティング週報【最上位を継続＋目標株価を増額】(1) (8月24日－28日)(株探ニュース)**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQbUdRa2Zod2RvZjB2RnhVMzZDRjUxbW5XTkpaNlFvelppQ01DWWRuVWJfNUNyZEpCZ0o2Q0lUSXctMElIUE5KemdGSkJHTjg4dmxlaE01Znp5TV9JWVIwOUxOM1JQc2VQWHRKSE5iNDh0WVhEYjVPUFFBaGEyUmd6MmRLckFST3M?oc=5)
+
+- **[2026.08.29] Yahoo!ファイナンス — レーティング週報【最上位を継続】 (8月24日－28日)(株探ニュース)**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQWlNTTmYxVXhGd2pOUF94b0ViQnBOdGhuMGFYUmgxZzcxZmlJc2dkSDJuOE9SYlMxdlg5U0I2OWM3VUxHRzFVQXlxdFRua193ZHdBRUktSDJad053YUgtQll1Ukl0NnVhNGUxWjVROVV2Q2FYX2ZCWk5kUk9TRXlvMW1GZTZ2NkU?oc=5)
+
+- **[2026.08.29] Yahoo!ファイナンス — レーティング週報【最上位を継続＋目標株価を増額】(2) (8月24日－28日)(株探ニュース)**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxPVE1TVkMzZ0w4NlV5VV80ck9VbVJodE1hekpFczhFVzd0bllmRXR3WFBCd254MHJtT2hpX21oR2huMDU0THZYSmlxSEpyRE1GdmZvYXNFck1peXdaX256UGFDdDE1OU50YzZfVUFXVXA3TVNHalpmbk5hTk9nd182Um1lUVc3TzA?oc=5)
+
+- **[2026.08.29] Yahoo!ファイナンス — 週間ランキング【値下がり率】 (8月28日)(株探ニュース)**
+  日本語：要約：Yahoo!ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDVJbU8xWXJHcUhtWUx1dWJvYjVUQklMXzl5N2hoSWFLa0FnOXFFV1c3cnJJOGtFbDJaRUtPRUdoYk8xSy01dkY1NDczT09mbVR4Q3ljaExRS3lkN2RUVE9ERHJ3dlowaDdaSXlWTU1hNm05UjlTUVRrdGozNVpESXNpaTdDLVk?oc=5)
+
+- **[2026.08.29] 日本経済新聞 — 「円安株高」リンクに綻び AI相場、為替離れ進む**
+  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTFBNcng0SGhhMGpIMUh4eGZCZVU1U250a0ExdlpMUEN2RFZ5NXItYzYza0hnck9ETHJWQlZiRGVlUWw3ZVlRdHR4SG9aUkx0TmoteGFnLWhvem5WcGVMN0plS19JblIzdmxJOFVPUA?oc=5)
+
+## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.08.29] اسلام تايمز — Iran War Reaches the Bond Market; Japan, Yen and US Debt Markets in the Line of Fire**
+  English: Summary: اسلام تايمز highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [اسلام تايمز](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHNRcWtaSG9HSGJmUlBmeVZBMWhQMGpWM292T1I4MjVwZkZMQW1JOFB3eVc3dTlObFFhaWYxa05WclFrajJ6U0U1ejd3aG5ycnV0elJRdFhRQkl6R0RwZDVlaElrOWZ2M3hoMjJfUFVrSERLVzZVS3hXakNaQXRNb2VYRVNHUm1nWlVOWlROWFBaR2V6cVhoV2pFVzdPUDM3Q0EtWW8zRWxwdzhOOGMycUY0dWZwVWRPNVBqLVBhNG1mUQ?oc=5)
+
+- **[2026.08.29] The Edge Malaysia — Stocks fall while dollar, bond yields rise as Fed chair Warsh prompts rate hike bets**
+  English: Summary: The Edge Malaysia highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [The Edge Malaysia](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hczBFZUg1U1p0cEtvYjRzaDc4WTdhRE9ZeS1tXzd4OVdOb1JkY3FtdlJFa2ZBQlFmdkZ4bU9VYkVjYS1fVjlzT0txYkptTDEy?oc=5)
+
+- **[2026.08.29] CryptoRank — US Dollar Weekly Forecast: ‘Higher for Longer’ Returns, Boosting the Greenback**
+  English: Summary: CryptoRank highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [CryptoRank](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEprdEs2YVNlb3EyZHUtS29GdlhrYTlMc3l2djdoa1p3Ulk3cHZhYmtXUEk2OEFqeW5Fc1JVMDRTWVJJM1lPWVdQMHhpVnY2ejNxdTE1MjhVYmxBNXVSXzFWUTRMaGJESXBselc4NEJFUDU5cTgtNXlCME9MZS1QZ2VnVHhBVnMt?oc=5)
+
+- **[2026.08.29] CryptoRank — Tokyo CPI Data Bolsters Bank of Japan’s Hawkish Stance, Says Societe Generale**
+  English: Summary: CryptoRank highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 提供了判断股市趋势的背景变量。它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [CryptoRank](https://news.google.com/rss/articles/CBMiggFBVV95cUxQNDRGeFhsWFFoR184Qk1uWEo4ZlZtTUVzUmRIR1UwSndMa0NtN1pQUFFCbzlpd1lhaVBtc2x3YTBFU1ZmOERqX1pKeDF0WVEtZkRtNDRpeGJMZkhYd25KSGM3UzlCeGI1RUVXR2gtbWRQd3Z6N2ZFM05FWVZnSDYzSHR3?oc=5)
+
+- **[2026.08.29] Business Upturn — Bessent defends U.S. yen intervention, warns currency volatility could raise interest rates**
+  English: Summary: Business Upturn highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Business Upturn](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOenQtaHlWZG1WZDVpRUdjN2tSa2Foa1RyX1BnYmtvTVlyRE5HajFMREpoMzAzU0dJeHJKaU5hOVZRMnBRWTViemFXODl1bERmVEpsckVNbFIwNUhOWmdWR2g3NFhfTWhaYjhHQzN4blR0VWNKOUgtUkt5VEVjTmFoaGNwT0RXOGdHU1ozd2p2ek9JWFpkRTY3MkJTdHdJN3NQcFc4SkRKRExQVkJ6blNYb3pVNFRsbFE4dUJQcmxnMDNadEg2WXBUS3pPOXNOeUxhdW1idw?oc=5)
+
+- **[2026.08.29] stonex.com — Nasdaq 100 Outlook: Bond Yields Stoke Wall Street Risk**
+  English: Summary: stonex.com highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [stonex.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ29mNlFGOW9qbVZzWVNpSllGV0dVV003QTIxT3pXaHROMy1tbDJPTTVweXVXX0FsNjlOM1VMTDhXVFZPRnVjZ1drLVZ6WVhWVWFMUFdjT3NCbHgwUGhBYVg3cm5jcDlqU1RnS3pER2tTbU5SbzFKWW9hQkNaemY5Y0x6RlJSNEhWSU5GUTBBd2ZDYTRBazl3M2xsRWJ6aFpSZG5Z?oc=5)
+
+- **[2026.08.29] stonex.com — USD/CAD, Gold Forecast: Two trades to watch**
+  English: Summary: stonex.com highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [stonex.com](https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0ZwZHNGQW1vNS1TWXVzNUFoenVLZzJWT3BhUlJkNVk3eHh2OExSQTRjODRlMzdFNFItcU4wRVlZYnMzeWh6VUFFQUQ0ZjRpYjVoQjZNTFdNY05pRzdnWk03RlBNM3FPTGg4aFhkUE9aa1g2cVVLTl9hdlJtRnZYMGhZVVhaNHUzRGFUdnJRbVBVOGc?oc=5)
+
+- **[2026.08.29] tmgm.com — Gold slides as Warsh hawkish tilt lifts US Dollar and US yields**
+  English: Summary: tmgm.com highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [tmgm.com](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVIzQkJkdXRqMUtoWmRjbmVIR3lidUp6Ymp6ZUFZaVNzdWdrSXJVNEdrQkRnUHZSVG1zbDh1N2tGU0R0QTVaajdoWHo2VEoyRWg3RGNXZjBkeDdReFpxRHV1QkVHNEJ4M0NtQjZZNmxaanJnVjAxWkZKNXpXQm5PS3BNVUZReTkzQ2tKbHVydWt1Yy1TUnVTVk56YW1yaTBOQy1KQWhacG1RTHdNOGZud19ZX0cxU19zSlBBTVViTXhuSnJiR0xxQQ?oc=5)
+
+---
+※Stock Market Daily Digest | 2026.08.30
