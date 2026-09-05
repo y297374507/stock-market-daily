@@ -84,10 +84,10 @@
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [Mshale](https://news.google.com/rss/articles/CBMiW0FVX3lxTE52cm5JS1o3X2MxZEhiUWZPT2xfVXpFSWt3SmhoRjF0aFRFSmRlWDZFbWNmVlZGWm15c2NFdklXNUVtRDVhYnNPMXE0MG53a2tNakYyM2YzdmVBM0E?oc=5)
 
-- **[2026.09.05] 日本経済新聞 — 日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ**
-  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+- **[2026.09.05] nikkei.com — 日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ**
+  日本語：要約：nikkei.comの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYUxWSHBMMTZaNEszUXFTNk0wN1I0RmZhWV9vemRzUWdpaUloaVYwOTBTOG5hNGZUTmhHcDRJbkszTUFnOTl2S2c4WUU4RnExWWNBRkl1S0p0WXlfcjdHZ0hfdWoxT2M1V1pvQQ?oc=5)
+  📰 [nikkei.com](https://news.google.com/rss/articles/CBMibEFVX3lxTE9pYUxWSHBMMTZaNEszUXFTNk0wN1I0RmZhWV9vemRzUWdpaUloaVYwOTBTOG5hNGZUTmhHcDRJbkszTUFnOTl2S2c4WUU4RnExWWNBRkl1S0p0WXlfcjdHZ0hfdWoxT2M1V1pvQQ?oc=5)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
 
@@ -126,10 +126,10 @@
   中文：总结：Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
   📰 [finance.biggo.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YZnljM1hTRWk4UVlFUTdaR0RlbmtESTdoVUJfV2s4bENKbnJvZVA4TXZ0UEZWdUU2R0Qtc0ZwcDBBS0F6bE93N1Q5TUpqT1hrbVQ0NnJNQW9lYk1aaXlB?oc=5)
 
-- **[2026.09.05] InteractiveCrypto — Market Sentiment on a Knife’s Edge: Dovish Fed Talk Meets Strong Jobs Data**
-  English: Summary: InteractiveCrypto highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+- **[2026.09.05] interactivecrypto.com — Market Sentiment on a Knife’s Edge: Dovish Fed Talk Meets Strong Jobs Data**
+  English: Summary: interactivecrypto.com highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
   中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [InteractiveCrypto](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVhVN1MtcU1ZVkE5ZmdueU9OVzRQdU9yMmVoVGdjRVV4YnlZanJ6aWp2UTBUSm9RdFBrUS0tWEtFeUNnemNySEI1Vlk1TlA2MnRzM1l3YUhWeU1NelBNZlNPRDJ4Mm5vRlJGU0M0Ti1vWWwtSkdndUVkejg2LVBpb1F1UWo2OVNIZGxwYi04YUZHbWJ3T3drSHVQbUFhLUp1M29kSkZfY0J3TFE4My0temlvWDl3VlU?oc=5)
+  📰 [interactivecrypto.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMVhVN1MtcU1ZVkE5ZmdueU9OVzRQdU9yMmVoVGdjRVV4YnlZanJ6aWp2UTBUSm9RdFBrUS0tWEtFeUNnemNySEI1Vlk1TlA2MnRzM1l3YUhWeU1NelBNZlNPRDJ4Mm5vRlJGU0M0Ti1vWWwtSkdndUVkejg2LVBpb1F1UWo2OVNIZGxwYi04YUZHbWJ3T3drSHVQbUFhLUp1M29kSkZfY0J3TFE4My0temlvWDl3VlU?oc=5)
 
 ---
 ※Stock Market Daily Digest | 2026.09.06
