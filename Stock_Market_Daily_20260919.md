@@ -42,10 +42,10 @@
   中文：总结：Micron 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
   📰 [TradingKey](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHR2eEdSdEhkb1hPYmNDOG5jOTJmWjBGeFRzZE1nOUFDVXBlX05iOVJ5VjJIS2lBbzJ3VzdaYi05Q3JXQXhBQ2NrTXhWazFaY1RKSHFzdVFrNnJxbkJjd0RjYTdLcDFTT2FxYWd1aUc2eFlfcVEzbWZ0NExpM3V1RU93ZDl3WlZ4eVYzQ3lraXhaX05rTFh3NWxuVVpGVTQySndBUnh2WDlmMDRQMnFiQldfZmNHMXJVSHlTN29BREo2THNPUmRpNlQtc2s4bG1ic2o0Rg?oc=5)
 
-- **[2026.09.18] TradingKey — Qualcomm Inc Stock (QCOM) Moved Up by 3.33% on Sep 17: What Investors Need To Know**
-  English: Summary: TradingKey is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Qualcomm. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：Qualcomm 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [TradingKey](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHlDQ1RmRUFodXI0ZWZRa0l1NFkyWWJETWxkek83bVg0WllnZjVaTnVIWGRVcDIwLWY2M01UWGZMZTNzT2l6ZU1uclZYZUVqbmF2SnJhUTBpSExIQUotNVIydjVyVHZnNkRQcVdzWlI1M1dpajljVG9nYmNKNmtvUnJtX0hBcDZoQ0xR?oc=5)
+- **[2026.09.18] Invezz — Why Nvidia stock is up over 2% on Thursday**
+  English: Summary: Invezz is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Invezz](https://news.google.com/rss/articles/CBMikAFBVV95cUxQclVrNmpKLUtFSnRUQWhIcWl6THdXaE0xdnlreUZXeHFPRGNSeW9ZeUVPTDYzLV84NDVxSjlCYzNEY3lteUxkTG1JSVc1RUFzWGRJU3o3STFWd09hdnJwY1l4bWhNd0pnRDBEMnY4dDl4TGxlMkVFOEJhOGdPU1ZkSVRKUG13b29McDFUQkFtU0I?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
