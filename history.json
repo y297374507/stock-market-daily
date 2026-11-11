@@ -1,5 +1,13 @@
 [
   {
+    "id": "20261112_0414",
+    "date": "2026.11.12",
+    "time": "04:14 JST",
+    "weekday": "木曜日 / Thursday",
+    "file": "Stock_Market_Daily_20261112.html",
+    "count": 24
+  },
+  {
     "id": "20261111_1123",
     "date": "2026.11.11",
     "time": "11:23 JST",
@@ -709,14 +717,6 @@
     "time": "23:12 JST",
     "weekday": "土曜日 / Saturday",
     "file": "Stock_Market_Daily_20260815.html",
-    "count": 24
-  },
-  {
-    "id": "20260814_2344",
-    "date": "2026.08.14",
-    "time": "23:44 JST",
-    "weekday": "金曜日 / Friday",
-    "file": "Stock_Market_Daily_20260814.html",
     "count": 24
   }
 ]
