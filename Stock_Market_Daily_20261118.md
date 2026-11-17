@@ -7,6 +7,11 @@
 
 ## 🇺🇸 美国股市 / US Market
 
+- **[2026.11.18] TipRanks — Buy Micron Stock Before the Company Does, Says Investor**
+  English: Summary: TipRanks is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [TipRanks](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWtGYVk0c1gzdkJlR1Z6YmpCNHlvWTZLWGozckUzWGxOWGp6dml1OE1PNzBvXzloZXN0M1ZyZkgxLU9LN21hSUZwaDFVemRlcFVDbk1SdzNpQWFxSHZMa2NxWF9FWlYwSVVTM3pYWVNGNTBiT1Bpek1lM2tDLTFJNXYyWTlSUG9SVTdsNWhOaVRSUDV6MUlN?oc=5)
+
 - **[2026.11.18] TIKR.com — TSMC Is Up 23% in 2026 With Demand “Far Above” Supply: Take Profits, or Buy More?**
   English: Summary: TIKR.com reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
   中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
@@ -17,10 +22,10 @@
   中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
   📰 [BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tUDdQNlZzTG1wQUQ2V2w5TnRDU2g4U2VGSDFlb1ZPZkxMdnpPZzZkYWdEZWRHQ3MwZkxKSFEzR01BRGdKcnRLSVFwRC1NVnVZTEt1T0tmRUZrSFM0cWw4NF8ta09TdFFZR0FIOFVfTFNMSmdaeHc?oc=5)
 
-- **[2026.11.17] Yahoo Finance — David Tepper Sold Every Broadcom Share Last Quarter and Bought More Micron and Nvidia. Broadcom Has Held Up Better Since**
-  English: Summary: Yahoo Finance is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron, Broadcom. Micron earnings or guidance point to stronger AI-server memory demand. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+- **[2026.11.17] 24/7 Wall St. — David Tepper Sold Every Broadcom Share Last Quarter and Bought More Micron and Nvidia. Broadcom Has Held Up Better Since**
+  English: Summary: 24/7 Wall St. is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron, Broadcom. Micron earnings or guidance point to stronger AI-server memory demand. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
   中文：总结：Nvidia、Micron、Broadcom 是这条消息的主要观察对象。Micron 的财报或指引是核心催化，市场正在重新评估 AI 服务器和数据中心对存储芯片的需求；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
-  📰 [Yahoo Finance](https://news.google.com/rss/articles/CBMingFBVV95cUxQcDFoYXNVUUFZdDRFVmZXSGlxSHUwUzFabWhFNzhZMzBWWERNQ1Vsd2lPem9VM1AtM2tEY3lhUWlwaE5tQm5uUXV0VmVveW5EWEJxSVhvMFFyYkE5Wmp0OE45allEOUQxcFMwRFpGa1B0VFpLWnVtcG1GbG5UWUw5cDEzTURKMXQwSDZEdElTZVZYOWZQTWZCcEM0U2RfZw?oc=5)
+  📰 [24/7 Wall St.](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaFJ3ZUd2Q3c5c0tjNWhPVENna3Z5TzFKSThLTE0zUVNRdE1xQ1FiZWREeURLbmhfWU96YjVIOGJHV3VUN0FtVEVWbl85bTVxQU9vbjZocVhjUTFrbTRMNm5zWk83eENtenhxRkE0eE9ZeDVzMk00OC1SS3NVaWVMMmd6NVVGSzRwOGR6M1dwdWVhVFM0eDBldnhwSmpJOVZadlJqMDd3eU80cWRNY2otdTloaUYtSkZDSm0wa3JqdHNQYkh5LXRoUTFqQVF6eU5iZDFjaENVM0oyTEVuR01NSkJFNDZOM0NrWGtMdWpoa2NZb2pBamc?oc=5)
 
 - **[2026.11.17] TIKR.com — “What Would It Take” for Investors to Finally Admit that Micron Is Poised to Win for the Long Term?**
   English: Summary: TIKR.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
@@ -42,11 +47,6 @@
   中文：总结：Nvidia、Broadcom 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
   📰 [BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE9DT1RfUm5zY2IwRjlZaW50MzlYTTZ3RVduak5TaTBKZmlFNnJaOGhETDVLN0l3RG1qdWlsemhud21OWl9KaGNIckVvOHlfOXFPQXVodGFta0loeXBXZHZSMVcyakRFQ3M0czF0dzYzNnFZZHpnS2c?oc=5)
 
-- **[2026.11.17] AOL.com — 4 Chip Stocks Down as Much as 36% From Their Highs to Buy and Hold for the Next Decade**
-  English: Summary: AOL.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving the relevant assets and sectors. The headline points to a change in company-level expectations, sector rotation, or market sentiment. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
-  中文：总结：相关公司和板块 是这条消息的主要观察对象。标题反映的是个股预期、行业轮动或市场情绪的变化。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
-  📰 [AOL.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE1tTUQ1S2J4NnpEUm1Qc2Z4UlVOTGxOb09sdmhjWjRLT3RnRVJOaU5ZTWZQVTdqM2p4QnpQM3JjTFpqYVdQSEpndFdXeFh1bWJHWEprUWdpdW5WWVBZcnYzS1FZWnZXNy1lMWkxUlBUcGpWNVcybWc?oc=5)
-
 ## 🇯🇵 日本株式市場 / Japan Market
 
 - **[2026.11.17] BigGo ファイナンス — 日経平均、半導体株安で801円続落 アドバンテスト1銘柄で257円押し下げ**
@@ -64,11 +64,6 @@
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE1EcnpLQXk3R1piZmxGdEh6OUJHY1dDbWZMMkFXOGJrWG83MTRVQ3lfUnRGRThhTTNDUm9RUjlKby1HLWVieUc3YVAzTU1HM3J1aU51enR1Wk1CcDBsZy1laVdXWWVISnZEZVJJcWVEM2Y?oc=5)
 
-- **[2026.11.17] みんかぶ — 後場の日経平均は515円安でスタート、イビデンや古河電工などが下落 投稿日時： 2026/11/17 13:00[フィスコ]**
-  日本語：要約：みんかぶの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
-  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
-  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pMFdfazNrc0lraGpsNDFBdGhoQkRhWGN6RU5jZ1V1MEpUMEpkcm53VFVDTmpwdkNpcUdvYmtyTHYyQ0t6dEViUw?oc=5)
-
 - **[2026.11.17] ｄメニューニュース — 日経平均は大幅続落、アドバンテストが1銘柄で約366円分押し下げ**
   日本語：要約：ｄメニューニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
@@ -78,6 +73,11 @@
   日本語：要約：ｄメニューニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
   中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
   📰 [ｄメニューニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZzhsYUJlZF96LU1GWXhnQkVSY3ZVTExOT1RtOWJEMnFhNFFqY251MUxjSjdSSTJWblVlMkw0WEI3U3VSTDl0aWRsX0plR2QtZ2JsNWxLM2V1ZENOaWliWGdFVTZldzFwRm9MSk4xWi1kSXoxYnFKcWFOWkhZczlVdEpCT2R5dzlibVUwUNIBjAFBVV95cUxOZzhsYUJlZF96LU1GWXhnQkVSY3ZVTExOT1RtOWJEMnFhNFFqY251MUxjSjdSSTJWblVlMkw0WEI3U3VSTDl0aWRsX0plR2QtZ2JsNWxLM2V1ZENOaWliWGdFVTZldzFwRm9MSk4xWi1kSXoxYnFKcWFOWkhZczlVdEpCT2R5dzlibVUwUA?oc=5)
+
+- **[2026.11.17] みんかぶ — 日経平均17日前引け＝続落、705円安の5万8956円 投稿日時： 2026/11/17 11:31[株探]**
+  日本語：要約：みんかぶの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [みんかぶ](https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBVlNVUEVxVTVaVTZVZjR2QXQ0RFN3R3N0VEhPTjRIRUkwdUJkeG53dVdTX3VLejhrRTBLc1hTYklYb1o1OXc?oc=5)
 
 - **[2026.11.17] ニコニコニュース — 「年間配当175円への増配」と「上限200億円の自社株買い」発表でストップ高…手厚い株主還元策で急伸した〈注目銘柄〉の**
   日本語：要約：ニコニコニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
