@@ -7,27 +7,104 @@
 
 ## 🇺🇸 美国股市 / US Market
 
-- **[2026.11.22] 暂无更新 — No updates**
-  English: No recent news.
-  中文：暂无新闻。
+- **[2026.11.21] JournalArta — SanDisk and Micron shares fall as AI stocks sell off**
+  English: Summary: JournalArta is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [JournalArta](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV8tTEZuV0xkYmdqZDU4Mlp5bVJOU25wOU5iZlNHS1c1LVkwd2pjVzl5Mmw3Sy1QRnhLdFdhWG03YnlyejNPRTRoQWpadVZOTVJvYVNySXN2cUZ5TllPYjJLNVd1cVlObDM2VEVfSnZ6TlFIdFF5LTZsMVNsRnYzLUZkaGdYalU?oc=5)
+
+- **[2026.11.21] Pension Pulse blog — Top Funds' Activity in Q3 2026**
+  English: Summary: Pension Pulse blog reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Pension Pulse blog](https://news.google.com/rss/articles/CBMigAFBVV95cUxOV0JLd1FSLUFKTnJxU2FVOHdQbEFHXy1md0YxRWdKd1RTN0Jmdi1QS3MyTmd2bWlwSUd5M01DTG4zNkJ2SHFqX1hnelB1WU1YaXpCSlVFb3p6X0dEQVRIcGhIa3dlczNqMDB1NUV0Vkw0dVhmT2RmdDNkSlVldjYtTw?oc=5)
+
+- **[2026.11.21] Benzinga — NVIDIA Corp (NVDA) Stock Price, Quote, News & History**
+  English: Summary: Benzinga is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Benzinga](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RSzlEVmlEVFhDY0xFcWNDREpsb0RnczcyTjhPcEd5WXpyMlFTaFBTRmxJN2JHcXV4RkFDUHoyVTZjQk01RFpEOFZGRQ?oc=5)
+
+- **[2026.11.21] The Times of India — AI sell-off batters Wall Street; S&P 500 enters correction, Nasdaq turns negative for year**
+  English: Summary: The Times of India reports a market-moving item tied to the relevant assets and sectors. The relevance is how it feeds into index breadth, sector rotation, and risk appetite. Watch the relevant assets and sectors alongside Nasdaq futures, sector breadth, volume, and analyst revisions. If related stocks move together, the signal is more likely to reflect a real sector trend; if the reaction is isolated, it may be short-lived repricing. The next checkpoint is whether trading confirms the same direction across peers.
+  中文：总结：相关公司和板块 反映美股盘面或个股情绪正在发生变化。它的重点不只是指数涨跌，而是资金正在选择哪些行业、哪些主题以及哪些公司作为交易主线。后续应结合盘前期货、板块涨跌、成交量和分析师评级变化，判断这是短线情绪反弹，还是能够延续的产业趋势。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [The Times of India](https://news.google.com/rss/articles/CBMijgJBVV95cUxOSFZzTkowM0h2V3JVRVhXZTRWeUZaUGRoZVYxbVZxeWNYcUQ5MnBaRXYxcUhyRzNjdzZ6UTcwemJNSEVDdVlZN1plaGc4QzVyTk9wa0hNajNGaUdSNjZBbXRWc2tKWnJBQThabVVLRl8yTE1mZnN4RDFqTXF2VHZIYnZEa2Q1YlZGcVR0SXRDcFdVUTdibjV4T0pfZDZoM2hNTDR6WVphekNQOUV6Ui04MzVaUHkzSWdIUWhBc0lPcDNYMVpIcUUtdHczWFNMWHRxUlNTanV0SmY0dVV6VFNJWXowTkN4YVlpR1ZsRjJiMVFMS05LX0pLZTdyVUhYODB2ajY1NWxIdVFlSFNud1HSAZMCQVVfeXFMTnZnaWV5aDFEaEcxc3NBWU9PNEg0Zm9SYmdzcDBxU2tvYUQ0X3k4REdnQU1TQWZaQ2Q1R3o4bDZURk9YNS1UeVNZTnhjMnNaVG8xM0xyQlFvMkNzbWljaU5VRy1OLUNVUkxFVkFMUThkMjRkaTdoaXBlT1FWYjJHbUtTSUFSU3dMRTkwdnpDX2ZVVTJqMXM3bUx3NE5RTlFjMURaaUNPMm01a1cwcjU0MEs3ZFJVTmF4dENKSGEzb3VvaE1ncDl4bHBDYksxWGRnM0JmNmw4dTlDTUZYcGxFcVl4cV8yeFR6SkN5VEd1RGhUN3JkTGczUWtmLU9kWWxVTUo4QXVkX0JKdUUzWWxEemtnQ1U?oc=5)
+
+- **[2026.11.21] BigGo Finance — AI Bubble Fears Trigger Selloff: Nasdaq Plunges 5.3% in a Single Day, Nvidia Tumbles 14% to 18-Month Low**
+  English: Summary: BigGo Finance is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Nasdaq futures make the story relevant for growth-tech risk appetite. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。Nasdaq 是主要传导对象，因此这不只是单一公司消息，也会影响成长科技股风险偏好；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [BigGo Finance](https://news.google.com/rss/articles/CBMidkFVX3lxTE1mWTZiU2RDTktKdFl1Y2NxTU93Wk1uMHJlYlg2Q0NsZHl1aEJiUlpRaElEenRMNU44Z0JfYnJ2U0MtQWZWcHNMZG9aTFB3N2VBamtOX1BnaUY1N283d1VhcFI3TFEzS0FiaGVEUl9ZRDlNVjZNQ1E?oc=5)
+
+- **[2026.11.21] Yahoo Finance — Stock Market Today, Nov. 20: Nvidia's $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street's AI Sell-Off**
+  English: Summary: Yahoo Finance is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Yahoo Finance](https://news.google.com/rss/articles/CBMilAFBVV95cUxPbVFiSFQyZkVZQnhMSWJEMkliQ1Jrb1RiYXBSbTlId0kybU5KbW1XOGpuRDdXSE9wZGFOTWo2QzJZV2pIWXVlVG9Xd3pZek5Wd09sTGFDMHgxdGFzNkNtOVM4bDNNdTZsZUF3d2otZnhaaFRqbm5JWWZPRlBzVnZudllNVWpSUVdHOWFLVUdjaG41SzJa?oc=5)
+
+- **[2026.11.21] Yahoo! Finance Canada — NVIDIA Corporation (NVDA) Stock Price, News, Quote & History**
+  English: Summary: Yahoo! Finance Canada is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia 是这条消息的主要观察对象。AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。实盘上还应观察期货开盘后的成交量、期权隐含波动率、龙头股是否带动同业，以及资金是否从指数权重股扩散到中小型成长股。如果消息只推动单一公司而板块没有跟随，趋势持续性会弱一些；如果半导体、软件、云计算和电力基础设施同时响应，说明市场正在交易更完整的 AI 资本开支链条。
+  📰 [Yahoo! Finance Canada](https://news.google.com/rss/articles/CBMiUkFVX3lxTE51M3YyYUhDNzU1Y2Rjb1RZakJNc2s1NWlnbHBYS1RWTTJyNnpzNUFiUEVJQmRoSElldkd0Z3Bva0s1UURoUFpJcDVxZnRJZXdDcGc?oc=5)
+
+- **[2026.11.21] Investing.com — Chip stocks to consider on the dip: Micron and Nvidia lead the screen**
+  English: Summary: Investing.com is reporting a specific AI chips, memory, data centers, and semiconductor equipment story involving Nvidia, Micron. Micron is the stock-specific signal, so memory pricing matters more than a generic chip move. Peer moves show whether the trade is spreading through the AI-chip chain. The practical read-through is to compare the named stocks with Nasdaq futures, SOX-style semiconductor breadth, and opening volume. If the reaction spreads across peers, it supports a sector trade; if it stays isolated, it is more likely a short-term headline move.
+  中文：总结：Nvidia、Micron 是这条消息的主要观察对象。Micron 是主要个股信号，重点应看存储价格和 AI 服务器需求，而不只是泛泛看芯片股上涨；AMD、Intel、Qualcomm、Broadcom 或 Nvidia 等同业表现，可以判断资金是否在扩散到更完整的 AI 芯片链。交易上需要把标题里的具体催化和盘面反应分开看：如果同业、期货和成交量同步确认，说明资金正在沿 AI 芯片链扩散；如果只有单一股票反应，持续性就要打折。
+  📰 [Investing.com](https://news.google.com/rss/articles/CBMiygFBVV95cUxNVHgySjFqSk9GYVo4Xzd3eTBBdkoxU1Y4VnNreTZhU3lWV0tabFVCSmp2Z0puUDZiLVB4bDdaY085NlhSeHZXTDRuQ3BGV3EyQjQ2X3U2dTZDNV9VUGdCWkpZMmdxdllueTBuQ0U0cFpYUHIwdU5SRl9DR3lON2ZxZXUxODYxYUlLb1V3OC1FeGxVa0tCX0lGYklkX2drSzBMTlBkT0ZDNE5WQXF5aXhwbnZFdW9lWHhIUnNpVWNOWFR4cnlseG42bk5B?oc=5)
 
 ## 🇯🇵 日本株式市場 / Japan Market
 
-- **[2026.11.22] 暂无更新 — No updates**
-  English: No recent news.
-  中文：暂无新闻。
+- **[2026.11.22] ダイヤモンド・オンライン — 来週（11/24～27）の日経平均株価の予想レンジは、5万3000～6万円！ 11/6の安値も割り込んで自律反発に期待も、明確な“底入れ”まで材料株の物色が中心**
+  日本語：要約：ダイヤモンド・オンラインの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [ダイヤモンド・オンライン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTm96TE1rTnF5NzVOR0M2cnJMY05ZbGVNUU1ZZzlWNFVHRDJ2WlYwS2ladFhpWlJuTzlNTjhXczRQMjR5VFFUalI4QTUteXBmQUdv?oc=5)
+
+- **[2026.11.21] CRYPTO TIMES — 日経平均3000円超安、歴代5番目の下げ幅｜休場明け24日は？**
+  日本語：要約：CRYPTO TIMESの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [CRYPTO TIMES](https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wck1rOG9HckxKQkRGU0ZydF9XWVdmRi1pcXJ4OGE1RXMybG42OFQ1Tl9jMV9qQzRiLTN5M2Q0QzJzOTh3LWpPakM2RFNHemtBRHh4VGFqSUFMbmpabnc1SXVYSjlybkhP?oc=5)
+
+- **[2026.11.21] BigGo ファイナンス — 孫正義氏、SKハイニックスを1兆ドルで買収検討…SoftBank「もはや推進せず」**
+  日本語：要約：BigGo ファイナンスの報道では、SoftBankを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：SoftBank 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTFBUSFo5Sml1Y2lqU0FTVThrS3pQNTUxMG5WQ2dscDdVQzRuSG5kSE5vVHdJbEJ1VS13Z0FmX0ktYUNyYmVKeW0tUGZTam9Da1ZpaGc4OTlMekE3OXNXLXgweFJENTl2bU10WGhHU3E2YmMyOUZF?oc=5)
+
+- **[2026.11.21] Yahoo!ニュース — 上場企業の９月中間決算、最終利益が３年ぶり増加し４６・９％増…ＡＩ・データセンター関連需要広好調で幅広く恩恵**
+  日本語：要約：Yahoo!ニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE83bkFLdkNROXVkSWVMTE5Kd2RfODlKZXFfbGxzUHROMWVOVUJ1aDdIdW9BejVnaG9PN1pfTV9ZcDVWUzBjXzR0UEZPVkFUVDhrcGJuN0RzcjQ1UEtvWHZvNVBGcUJEX3R4eHBUZ2pNRmxwejlDYWNic2daT3ViR0U?oc=5)
+
+- **[2026.11.21] BigGo ファイナンス — ソフトバンクの孫氏、1兆ドル規模のSKハイニックス買収巡りウォール街に打診か＝報道**
+  日本語：要約：BigGo ファイナンスの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE1XNDFBSHppMVpXWTViMVJyZ3d2VVcyU0lBdWZqYmpDRTEwWGxfZjgzcHJiRGFpUHI2UDgyQzkyMUJxUWNoNG8xZHEyRFJfME5PcFZVWFgyc2dLQnlRZ0R0TmQyY3BPNlE1ZlYwUXhZWlQwREpm?oc=5)
+
+- **[2026.11.21] https://kabu-ir.com/ — 【相場の焦点】ＡＩ受難相場は「逆張り」から「選別」へ、年末相場の裏道を探る**
+  日本語：要約：https://kabu-ir.com/の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [https://kabu-ir.com/](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BT3M2ZVk2QVBQV1lOTDUzdlZRWHlVYng2SEFxcGJxWElrWjdTODBlMXY4eEcwYlVMeUUwcjRDOGFwZF9zY3JCUFd1V1ppTk5xWFl3aA?oc=5)
+
+- **[2026.11.21] 日本経済新聞 — アンソロピック Ａ 株価[ANT/Anthropic A]最新ニュース 日経会社情報DIGITAL**
+  日本語：要約：日本経済新聞の報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 反映日本股市当天的行业轮动和个股表现。对日股来说，指数变化往往由半导体、汽车、金融、商社和 SoftBank 等权重股共同决定。需要结合日元走势、海外科技股表现、日银政策预期和外资买卖，判断行情是单日事件驱动，还是更广泛的趋势延续。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [日本経済新聞](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yTWs0VWhOQ29naXY2ZmZpRi1RMjRidmJrb2JNZkZiMWtZOTl2Ql93VEpfdlFLbmJXU3hOX1RYUG5ETUtySVE3Y1NwbmItNmg4bGIzVg?oc=5)
+
+- **[2026.11.21] Yahoo!ニュース — 日経平均は続落で寄り付く、米半導体規制を嫌気 関連株は売りが先行（ロイター）**
+  日本語：要約：Yahoo!ニュースの報道では、関連銘柄とセクターを中心に日本株の物色がどう広がるかが焦点です。半導体、AI、ソフトバンクグループ、輸出関連、金融などの主力株が同じ方向に動けば、日経平均やTOPIXの動きにも継続性が出やすくなります。一方で一部の値がさ株だけが上昇している場合は、市場全体の広がりが弱い可能性があります。次に見るべき点は、円相場、米国ハイテク株先物、出来高、海外投資家の買い姿勢です。決算やレーティング変更が材料の場合は、同業他社への波及も確認したいところです。指数寄与度の高い銘柄だけでなく、中小型株や内需株にも買いが広がるかを見ると、相場の持続力を判断しやすくなります。
+  中文：总结：相关公司和板块 把日本市场的焦点集中到半导体和 AI 产业链。日股中东京电子、Advantest、Kioxia、SoftBank Group 等常被视为 AI 基础设施和全球芯片周期的映射。如果海外芯片业绩或 AI 资本开支继续超预期，日经指数可能继续由高权重半导体股推动；同时也要留意日元和海外资金流向。实盘上还要结合日元汇率、外资买卖、美国科技股隔夜表现以及期货盘变化判断。如果日经上涨主要依赖少数半导体权重股，后续容易受海外芯片消息影响；如果汽车、金融、商社和中小盘也同步走强，说明市场宽度更健康。
+  📰 [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5YRzBGOGhsclA2Q3hsZ21GalhrTFBqUFZvTmVLei1HM19OOWlCRE1JVDJEZnVDVlVYTTc0SWd5UFhWUXhpZjVndm5QVnBpM1NXNDBLTUMtQWpDR1dsMlNOcWNWRHd3bmpqVk55VS1OVG01V3gwd0sxYnpRZ0FSck0?oc=5)
 
 ## 🌍 宏观经济与投资 / Macro & Investment
+
+- **[2026.11.22] StoneX — Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March**
+  English: Summary: StoneX highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [StoneX](https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V0aXctMHhmVjRnZXFxRnZyVzRBMUxVUklISmhWTEEtNlk2RWYzbFcxd3kxOXpFUGJZNU15YlN1MkpPOXd4d1EtRVpfeHByTkVhOVNrcGROWnh6WEhWQ2xLSW53QXZVdXdialViRWl2WXFHcUxET1N6cDRkR0hHZnZXLVBJbndPSV9mbkhRZWtsN1ZLWUx0LWFWTkJRNXhwYndoeEZXVmN1MkI5NDNFbWk2QzJzU3VwMVdaLVV2QTd5Sk9hNGc?oc=5)
 
 - **[2026.11.22] investingLive — How could Japan shake up the global markets?**
   English: Summary: investingLive highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
   中文：总结：相关公司和板块 提供了判断股市趋势的背景变量。它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
   📰 [investingLive](https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXdIQjBJR1JocXFwblYxejF1S1J5ZDA5VmxxYndNRjNnaDk2Uno5ajU5cXoxNXpyTUhxbEZwc2VNVHlvQ0QwUnlfb21DYWFYeDNvZFFNNm1YVTJFSDFJM0JaQm5pSmdfYnFIcExJSG5ZTmI5TkFPNXd4MXZ4WlhXOW1BbGl1WlU?oc=5)
 
-- **[2026.11.21] صحيفة مال — Dollar Retreats as Momentum Fades Following Weeks-Long Rally**
-  English: Summary: صحيفة مال highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
-  中文：总结：相关公司和板块 正在影响美元、日元、美债收益率和全球风险资产定价。利率和汇率变化会通过折现率、企业融资成本和跨境资金流影响股票估值，尤其是高估值科技股和出口导向型日股。后续要观察 Fed 预期、美债收益率曲线、USD/JPY 以及黄金和比特币等避险/风险资产是否同步确认。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [صحيفة مال](https://news.google.com/rss/articles/CBMibEFVX3lxTE1zRGNsOU9OeFhnRE96SFh5Yy1qRTNjZHZJcWRHQU85UzRoNm0xc2tTLU9mV1pTWlRJZUI1NEtoRFlLQjc4Ml9PNXQzNFNFdjBBNVJHZjBEYjdYaFNuWlMyS3RmQjFqUXNDYTVlSA?oc=5)
+- **[2026.11.21] Mitrade — Track Gold Price | Gold Live Chart & Market Updates**
+  English: Summary: Mitrade highlights a cross-asset signal tied to Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
+  中文：总结：Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
+  📰 [Mitrade](https://news.google.com/rss/articles/CBMic0FVX3lxTFBFUmtOQjEyZEZiWW9waEhya3kzd3RlNnlKZ2VEajNVRWNHaEZGSFE5bmo2eGpSck9taHJiUERVY3VfMTZiUHQyUlR4UTNHc1V1bWdxR3hSOXl6UDZqbGVfOWxDRHI2a3NTTmVQQ0tmSGNjNVk?oc=5)
 
 - **[2026.11.21] ChainCatcher — Bank of America: After Thanksgiving, the...**
   English: Summary: ChainCatcher highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
@@ -48,11 +125,6 @@
   English: Summary: 富途牛牛 highlights a cross-asset signal tied to Nvidia, Gold. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch Nvidia, Gold together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
   中文：总结：Nvidia、Gold 属于需要和股市一起观察的跨资产信号。原油、黄金和比特币的变化会反映通胀预期、避险需求和风险偏好，对能源股、资源股、科技股估值和美元走势都有间接影响。如果这些资产与股指同向或背离，往往能提示市场是在交易增长、通胀，还是避险。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
   📰 [富途牛牛](https://news.google.com/rss/articles/CBMimwFBVV95cUxNT3FLemNQRENoOW5qTHM2Zk1sbmZod3B0cnF5WkxVT2xNUnZuZzJHUnBjbGJHbDdXeWIyNkRIWUZiRGtYRlZDMjUzaGh3Q0pjem5GRHJvWW5GRTc2LWdZdVF1UVlMaTUwdy14OVN0aGlmUnhsc3ZjUllFRXlKSU1LX2NNRVdza3VaVHZ5UXhRVEdRQlp2a0dTWWVlQQ?oc=5)
-
-- **[2026.11.21] investingLive — investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%**
-  English: Summary: investingLive highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
-  中文：总结：相关公司和板块 提供了判断股市趋势的背景变量。它需要和指数、行业轮动、汇率、利率和商品价格一起观察，才能判断资金是在追逐风险，还是降低仓位。对当天交易来说，最重要的是看该信号是否被美股科技股、日股半导体股和美元日元走势共同验证。实盘上要看该宏观信号是否同时影响美元、利率、商品和股指。如果美元与美债收益率继续上行，高估值科技股可能承压；如果黄金、原油或比特币与股市出现背离，则说明市场对通胀、避险或流动性的判断还不一致。
-  📰 [investingLive](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUElyYy1fMS05UnZlRlVNT1hibU5VcG91R2duOTJYdGh6NV9FMGdpNXhpRHZsdmNjaUdJVklRMHY2UkZ1bUNUTjNiNVJMeFdiTDB1a2lZSFQxNDlzYXVYdnVhSXdjSTJJNTBFckozYk1BQVhEbzR4RWJlOFJNYXFyNFVTN1dYMWJfQlRKWHkyUzI1ZFFsNUt4V0p3QUkzYmFYWmRkNkNBQ0Flb3ZRLUlsOHFEWEhKeVh0?oc=5)
 
 - **[2026.11.21] www.tmgm.com — US 10-year Treasury yield falls below 5% amid deepening global equity sell-off**
   English: Summary: www.tmgm.com highlights a cross-asset signal tied to the relevant assets and sectors. This matters because rates, currencies, commodities, and crypto all change the discount-rate and liquidity backdrop for risk assets. Watch the relevant assets and sectors together with Treasury yields, USD/JPY, oil, gold, and major equity futures. If these indicators reinforce each other, the stock-market trend has stronger confirmation; if they diverge, investors may be rotating between growth, defensives, inflation hedges, and cash.
